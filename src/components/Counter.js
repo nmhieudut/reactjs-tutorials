@@ -1,4 +1,6 @@
 import React ,{ Component } from "react";
+import React from 'react'
+
 
 export default class Counter extends Component {
   constructor(props) {
